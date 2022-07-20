@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ariwodo16
+- 👋 Hi, I’m Michael Ariwodo
 - 👀 I’m interested in embarking on this journey into the tech industry
 - 🌱 I’m currently learning Data Science & Analytics
 - 💞️ I’m looking to collaborate on projects
